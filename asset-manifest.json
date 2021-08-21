@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/basic-github/static/css/main.a617e044.chunk.css",
+    "main.js": "/basic-github/static/js/main.9ff8fd15.chunk.js",
+    "main.js.map": "/basic-github/static/js/main.9ff8fd15.chunk.js.map",
+    "runtime-main.js": "/basic-github/static/js/runtime-main.cc850093.js",
+    "runtime-main.js.map": "/basic-github/static/js/runtime-main.cc850093.js.map",
+    "static/js/2.0b70ecf5.chunk.js": "/basic-github/static/js/2.0b70ecf5.chunk.js",
+    "static/js/2.0b70ecf5.chunk.js.map": "/basic-github/static/js/2.0b70ecf5.chunk.js.map",
+    "static/js/3.7a52e870.chunk.js": "/basic-github/static/js/3.7a52e870.chunk.js",
+    "static/js/3.7a52e870.chunk.js.map": "/basic-github/static/js/3.7a52e870.chunk.js.map",
+    "index.html": "/basic-github/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/basic-github/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0b70ecf5.chunk.js.LICENSE.txt": "/basic-github/static/js/2.0b70ecf5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/basic-github/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc850093.js",
+    "static/js/2.0b70ecf5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9ff8fd15.chunk.js"
+  ]
+}
