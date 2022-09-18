@@ -1,4 +1,15 @@
 
+/*
+  _____                .___.__                             
+  _/ ____\___________  __| _/|__|   ____________ ___________ 
+  \   __\/ __ \_  __ \/ __ | |  |  /  _ \___   // __ \_  __ \
+   |  | \  ___/|  | \/ /_/ | |  | (  <_> )    /\  ___/|  | \/
+   |__|  \___  >__|  \____ | |__|  \____/_____ \\___  >__|   
+             \/           \/                  \/    \/       
+                        piyanos.com    ||       ferdiozer.com
+*/
+
+
 import React, { useEffect, useContext } from "react";
 import "./App.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
